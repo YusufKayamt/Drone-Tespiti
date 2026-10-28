@@ -1,0 +1,10 @@
+## Python derleme çıktıları
+__pycache__/
+*.pyc
+
+## Test videosu (telif/boyut nedeniyle depoya girmez)
+*.mp4
+
+## Editör
+.vscode/
+.idea/
